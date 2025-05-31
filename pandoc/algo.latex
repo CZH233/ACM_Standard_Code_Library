@@ -394,8 +394,6 @@ $abstract$
 $endif$
 $endif$
 
-\begin{cover}
-
 \begin{center}
 
     \includegraphics[width=.7\linewidth]{ICPC.png}
@@ -417,8 +415,6 @@ $endif$
     \texttt{\today}
     
 \end{center}
-
-\end{cover}
 
 \newpage
 
